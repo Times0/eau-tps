@@ -1,0 +1,11 @@
+pandas
+pip
+geopandas
+shapely
+zstandard
+matplotlib
+mapclassify
+folium
+seaborn
+catboost
+xgboost
